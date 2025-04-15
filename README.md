@@ -43,10 +43,4 @@ This project was developed during a 24-hour FOSS hackathon, and as such, there a
 We plan to address many of these in future iterations or open it up for community contributions!
 
 
-## 🧪 Running Locally
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/webrtc-file-transfer.git
-cd webrtc-file-transfer
 
