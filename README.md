@@ -1,6 +1,6 @@
 # 📡 P2P File Transfer via WebRTC
 
-A peer-to-peer (P2P) file transfer web application built with **WebRTC**, enabling direct file sharing between two devices without a server intermediary for the file data. The app uses **Node.js** for signaling and **HTML/CSS** for the frontend. 
+A peer-to-peer (P2P) file transfer web application built with **WebRTC**, enabling direct file sharing between two devices without a server intermediary for the file data. The app uses **Node.js** for signaling and **HTML/CSS** for the frontend.
 
 ## 🚀 Features
 
